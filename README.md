@@ -1,2 +1,0 @@
-# yapp
-yapp frontend
